@@ -21,7 +21,7 @@ Initial Version Assumes:
 
 - Frame extra STL's:
      - spacers.STL - Motor 40mm standoffs if you want to use printed ones
-     - knob_fixed.stl - Collar/manual nob for end of 5/16" rod
+     - knob_fixed.stl - Collar/manual nob for end of 5/16" rod (I need to enlarge the center hole as they are too tight currently, use m3 set screw to hold in place on shaft.)
 
 - The following files are provided for conventience:
      - XYEndLeftINTEGRATED_fixed.stl - Single piece end/bushing
