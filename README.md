@@ -19,8 +19,10 @@ Initial Version Assumes:
 - Couplers
      - 2x Aluminum or simlar 5mm to 8mm shaft couplers
 
-The following files are provided for conventience:
-XYEndLeftINTEGRATED_fixed.stl
-XYEndRightINTEGRATED_fixed.stl
+- Frame extra STL's:
+     - spacers.STL - Motor 40mm standoffs if you want to use printed ones
+     - knob_fixed.stl - Collar/manual nob for end of 5/16" rod
 
-They fuse the XY end and the lm8uu bushing saving some frustration.
+- The following files are provided for conventience:
+     - XYEndLeftINTEGRATED_fixed.stl - Single piece end/bushing
+     - XYEndRightINTEGRATED_fixed.stl - Single piece end/bushing
