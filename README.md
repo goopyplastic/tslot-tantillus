@@ -26,3 +26,5 @@ Initial Version Assumes:
 - The following files are provided for conventience:
      - XYEndLeftINTEGRATED_fixed.stl - Single piece end/bushing
      - XYEndRightINTEGRATED_fixed.stl - Single piece end/bushing
+     - ZlowerbracketfixedMETRIC_fixed.stl - Cable Z bracket modd'ed for M5 mounting (Use M5 16mm and M5 nuts)
+     - ZupperbracketfixedMETRIC_fixed.stl - Cable Z bracket modd'ed for M5 mounting (Use M5 16mm and M5 nuts)
