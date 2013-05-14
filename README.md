@@ -13,3 +13,9 @@ Initial Version Assumes:
 - 8mm Shafting
      - 2x SFJ8-170 (8x170mm bearing shafts, same as Tantillus internal XY axis)
      - 2x SFJ8-230 (8x230mm bearing shafts, same as Tantillus Z axis)
+
+The following files are provided for conventience:
+XYEndLeftINTEGRATED_fixed.stl
+XYEndRightINTEGRATED_fixed.stl
+
+They fuse the XY end and the lm8uu bushing saving some frustration.
