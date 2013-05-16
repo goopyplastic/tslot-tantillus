@@ -22,7 +22,7 @@ Initial Version Assumes:
      - 2x Aluminum or simlar 5mm to 8mm shaft couplers
 - Frame extra STL's:
      - spacers.STL - Motor 40mm standoffs if you want to use printed ones
-     - knob_fixed.stl - Collar/manual nob for end of 5/16" rod (I need to enlarge the center hole as they are too tight currently, use m3 set screw to hold in place on shaft.)
+     - knob_fixed.stl - Collar/manual nob for end of 5/16" rod (Use m3 set screw to hold in place on shaft.)
 - The following files are provided for convenience:
      - ZlowerbracketfixedMETRIC_fixed.stl - Cable Z bracket modd'ed for M5 mounting (Use M5 16mm and M5 nuts)
      - ZupperbracketfixedMETRIC_fixed.stl - Cable Z bracket modd'ed for M5 mounting (Use M5 16mm and M5 nuts)
