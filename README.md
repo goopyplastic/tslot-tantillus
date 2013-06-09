@@ -9,7 +9,7 @@ Initial Version Assumes:
 - 40mm standoffs for motor mounts, can purchase at mcmaster or print your own. Use 3x50mm bolts to attach motors.
 - Misumi 2020 T-Slot lengths:
      - 8x HFS5-2020-200 (Horizontal 200mm)
-     - 4x HFS5-2020-335 (Verital 335mm)
+     - 4x HFS5-2020-335 (Vertical 335mm)
      - HNKK5-5 (T-Slot nuts)
      - M5 10mm button head screw to affix panels to frame
 - 8mm Shafting
@@ -30,4 +30,14 @@ Initial Version Assumes:
      - ZlowerbracketfixedMETRIC_fixed.stl - Cable Z bracket modd'ed for M5 mounting (Use M5 16mm and M5 nuts)
      - ZupperbracketfixedMETRIC_fixed.stl - Cable Z bracket modd'ed for M5 mounting (Use M5 16mm and M5 nuts)
 
+BEEFY Z Option:
+
+- Is a more rigid Z axis mounting that has some other advantages such as being able to slide the upper and lower mount around and clamping bar end holders.
+- BEEFY Z Printed parts
+     - Zlowerbracket_BEEFY.stl - Cable Z bracket modd'ed for M5 mounting (Mounts directly into 2060 T-Slot)
+     - Zupperbracket_BEEFY.stl - Cable Z bracket modd'ed for M5 mounting (Mounts directly into 2060 T-Slot)
+- Misumi 2060 T-Slot Lengths:
+     - 1x HFS5-2060-295 (Vertical 295mm [40mm short of main uprights)
+- Misumi 90 degree brackets:
+     - 4x HBLFSN5
 I'm often in #reprap as goopyplastic if you have questions!
